@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./style.css" />
 
-## I just came back with a new github repository (2FA Security Issue). I will continue my work here.
+## I just came back with a new github repository (2FA Security Issue).
 
 
 ### Hi there 👋
