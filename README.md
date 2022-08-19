@@ -8,7 +8,7 @@
 </h1>
 
 
-  <img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
+<img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
 
 
   **Here we go**
