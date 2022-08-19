@@ -1,11 +1,12 @@
 <link rel="stylesheet" type="text/css" href="./style.css" />
 
-## I came back with a new github repository (2FA security issue). This will be my new archive. I will rebuild my projects here.
+<h1 align="center">
+  <a href="#">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋!;My+name+is+Tuyen+Van+😄!;I'm+a+programmer+👨🏻‍💻+from+in+VietNam+🇻🇳;My+main+job+is+AI-Machine+Learning+Research;Also,I+develop+Applications+and+Servers;Nice+to+meet+you+😘!!" />
+  </a>
+  <br>
+</h1>
 
-
-### Hi there 👋
-
-Hi, I'm **vantuyen-dev/tuyendv** 😄,  a programmer 👨🏻‍💻 from Vietnam. My main job is AI / Machine Learning research and I also develop applications. Besides programming, I love reading and sports 🏃.
 
   <img align="right" alt="GIF" src="https://github.com/vantuyen-dev/vantuyen-dev/blob/main/cat-animatiom.gif" />
 
