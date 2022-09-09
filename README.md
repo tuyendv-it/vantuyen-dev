@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FC8C03&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋!;My+name+is+Tuyen+Van+😄!;I'm+a+programmer+👨🏻‍💻+from+in+VietNam+🇻🇳;My+main+job+is+AI-Machine+Learning+Research;Also,+I+develop+Applications+and+Servers;Nice+to+meet+you+😘!" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FC8C03&center=true&vCenter=true&width=600&height=100&lines=Hi+there+👋!;My+name+is+Tuyen+😄!;I'm+a+programmer+👨🏻‍💻+from+in+VietNam+🇻🇳;My+main+job+is+AI-Machine+Learning+Research;Also,+I+develop+Applications+and+Servers;Nice+to+meet+you+😘!" />
   </a>
   <br>
 </h1>
